@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# AWS
+.aws/
+*.pem
+credentials
+config
+
+# Logs
+*.log
+logs/
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Sistema
+.DS_Store
+Thumbs.db
